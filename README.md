@@ -13,5 +13,5 @@ Remove both FluidEnabler.dylib and FluidEnabler.plist from the
 CoolStar, Ian Beer, theninjaprawn, stek29, and xerub for providing
 all the necessary steps needed for a semi-tethered jailbreak.
 
-## Like My Work?
+## Donations
 If you like my work you can donate at reseterabreadman@gmail.com via PayPal. :-)
