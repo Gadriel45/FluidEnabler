@@ -1,6 +1,12 @@
 # FluidEnabler
 Enables SpringBoard's Fluid UI for non-iPhone X devices
 
+## To-Do
+- Fix home button mapping issues (current implementation uses iPhone X mapping which leads to some gestures not working)
+- Fix status bar lag and offset when opening Control Center from the top right of screen
+- Add proper iPhone X status bar support
+- Add PreferenceLoader settings to toggle features on and off
+
 ## Installation
 Copy both ```FluidEnabler.dylib``` and ```FluidEnabler.plist``` to the 
 ```usr/lib/SBInject``` directory and using the terminal, run ```killall SpringBoard```.
