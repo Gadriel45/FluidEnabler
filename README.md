@@ -1,4 +1,4 @@
-# FluidEnabler 
+# FluidEnabler Beta 2
 Enables SpringBoard's Fluid UI for non-iPhone X devices.
 
 ## To-Do
