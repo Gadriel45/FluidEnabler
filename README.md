@@ -14,4 +14,4 @@ CoolStar, Ian Beer, theninjaprawn, stek29, and xerub for providing
 all the necessary steps needed for a semi-tethered jailbreak.
 
 ## Donations
-If you like my work you can donate via [PayPal](reseterabreadman@gmail.com) :-)
+If you like my work you can donate via PayPal at ```reseterabreadman@gmail.com```. :-)
