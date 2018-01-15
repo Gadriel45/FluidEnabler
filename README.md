@@ -1,5 +1,8 @@
-# Description
-Enables SpringBoard's Fluid UI for non-iPhone X devices
+# FluidEnabler
+Enables SpringBoard's Fluid UI for non-iPhone X devices.
+
+# Version
+Beta 2
 
 ## To-Do
 - Fix button mapping issues (current implementation uses iPhone X mapping which leads to some gestures not working)
