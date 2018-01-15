@@ -1,15 +1,15 @@
 # FluidEnabler
 Enables SpringBoard's Fluid UI for non-iPhone X devices
 
-## To Install
+## Installation
 Copy both ```FluidEnabler.dylib``` and ```FluidEnabler.plist``` to the 
 ```usr/lib/SBInject``` directory and using the terminal, run ```killall SpringBoard```.
 
-## To Remove 
+## Uninstallation
 Remove both ```FluidEnabler.dylib``` and ```FluidEnabler.plist``` from the
 ```usr/lib/SBInject``` directory and using the terminal, run ```killall SpringBoard```.
 
-## Special Thanks To
+## Special Thanks
 CoolStar, Ian Beer, theninjaprawn, stek29, and xerub for providing
 all the necessary steps needed for a semi-tethered jailbreak.
 
